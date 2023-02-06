@@ -82,3 +82,10 @@
     }
   }
 }
+
+@media only screen and (max-width: 1500px) {
+  .texteDescription {
+    height: 151px;
+    overflow: scroll;
+  }
+}
